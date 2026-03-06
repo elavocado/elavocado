@@ -1,88 +1,144 @@
-# 💫 About Me:
-Hi, I'm Mena 👋<br><br>
-I'm an Auszubildender Fachinformatiker für Anwendungsentwicklung based in Germany. I love building modern, responsive web apps using C#, .NET and Blazor with a strong focus on clean code, MVVM and user-friendly UIs.<br><br>
-Before tech, I spent several years as a content creator on YouTube and in production & automation. This gave me a strong eye for detail, structure and communication.<br><br>
-From taking apart my first PC and upgrading it to 126 MB RAM to migrating industrial machine UIs during my Ausbildung, technology has been a constant part of my life.<br><br>
-Right now I'm:<br>
-- finishing my Ausbildung as a Fachinformatiker AE<br>
-- improving my .NET & Blazor skills by building real-world style components<br>
-- combining tech with creativity: code, UI/UX and content<br><br>
-If you want to collaborate, talk about Blazor, .NET or frontend, feel free to connect!<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1128,50:8b5cf6,100:22d3ee&height=200&section=header&text=Mena%20Dawod&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20MAUI%20Developer&descAlignY=75&descSize=20&animation=fadeIn&stroke=8b5cf6&strokeWidth=2" />
+</div>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://menadawod.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/menadawod)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@foxflix)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawod.mena@gmail.com) 
+<div align="center">
+  <a href="https://menadawod.de">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Certified+.NET+%2F+Blazor+%2F+MAUI+Developer;IHK+Projektarbeit%3A+99+%2F+100+%E2%80%94+Sehr+gut;Berufsschule+Abschlussnote%3A+1%2C0;1.5+Years+Production+Software+%40+Karl+Mayer;" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
+<br/>
 
-<!-- Core web & .NET -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Pattern-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-2E7D32?style=for-the-badge)
+<div align="center">
+  <a href="https://menadawod.de" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20menadawod.de-8b5cf6?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/menadawod" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@foxflix" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:dawod.mena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=elavocado&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
+</div>
 
-<!-- Data & persistence -->
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Basic-336791?style=for-the-badge)
+<br/>
 
-<!-- Infrastructure / IT basics -->
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-NAS%2C%20Switches%2C%20Patchpanel-555555?style=for-the-badge)
+<div align="center">
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                     IHK · Jan 2026 · Offenbach                    ║
+║                                                                   ║
+║   Betriebliche Projektarbeit  ████████████████████  99 / 100      ║
+║   Berufsschule Abschlussnote  ████████████████████  1,0           ║
+║   IHK Gesamtergebnis          ████████████████░░░░  87 Pkt. 1,9   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-<!-- Media / extra skills -->
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
----
+<br/>
 
-## 🔧 Key Competencies
+## 👾 whoami
 
-- Entwicklung moderner Webanwendungen mit **C#, .NET, Blazor und MVVM**
-- Datenbankmodellierung und -anbindung mit **SQLite** und **Entity Framework Core**
-- Erstellung von **Tools zur Automatisierung** (z. B. JSON → RESX Konverter, Barcode-Parser)
-- Umsetzung von **mehrsprachigen Benutzeroberflächen** mit RESX-Lokalisierung
-- Sauberer, wartbarer und performanter Code mit **OOP, Dependency Injection und Interfaces**
-- Grundlegende Erfahrungen mit **Netzwerken, NAS, Patchpanel, Switches, Windows Server, Active Directory**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
----
+Ich bin **Mena**, frisch zertifizierter **Fachinformatiker für Anwendungsentwicklung** und .NET Developer mit echter Produktionserfahrung.
 
-## 🚀 Projects
+Mein Weg war alles andere als gerade:
 
-- 🎨 **Portfolio – menadawod.de**  
-  Personal portfolio website focusing on my journey as a Fachinformatiker für Anwendungsentwicklung, skills, projects and contact.
-  <br>🔗 https://menadawod.de
+🇪🇬 **2013**, Aus Kairo nach Deutschland, von null angefangen  
+🏭 **2015–2023**, Produktion, Roboterprogrammierung, Schichtleiter  
+💻 **2023–2026**, Ausbildung @ **Karl Mayer GmbH**, Weltmarktführer  
+🚀 **2026**, IHK bestanden. Nächstes Level.
 
-- 📚 **Digitale Bibliothek (Ausbildungsprojekt)**  
-  Webanwendung mit **C#, Blazor und Entity Framework Core**. Fokus auf Datenbankmodellierung, Entity-Design und praxisnahe Umsetzung mit SQLite.
+Ich habe keine Shortcuts genommen. Alles was ich kann, habe ich mir erkämpft.
 
-- 🧵 **Textilmaschinen-UI Migration (Ausbildungsprojekt)**  
-  Migration einer bestehenden Maschinenoberfläche von **JavaScript/jQuery** auf **C# Blazor** mit **MVVM-Architektur** und Best Practices, so dass die Lösung auf weitere Maschinen übertragbar ist.
+> *"From upgrading my first PC to 126 MB RAM, to shipping production software for industrial machines."*
 
----
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elavocado&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=elavocado&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elavocado&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elavocado&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,html,css,tailwind,js,git,docker,github,gitlab&theme=dark&perline=6" />
+</div>
 
----
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=elavocado&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Layer | Technologies |
+|:---:|:---|
+| **Core** | C# · .NET 8 · Blazor Server/WASM · .NET MAUI |
+| **Architecture** | MVVM · Clean Architecture · DI · OOP · Interfaces |
+| **Data** | Entity Framework Core · SQLite · SQL |
+| **Messaging** | NATS · Real-time communication |
+| **DevOps** | Git · GitLab CI/CD · Docker · Netlify |
+| **IT** | Windows Server · Active Directory · Networking |
+
+</div>
+
+<br/>
+
+## 🚀 Selected Work
+
+> Real projects. Real users. Real production.
+
+<table>
+<tr>
+<td width="50%">
+
+**🏭 Legacy-App Modernisierung**
+*Karl Mayer GmbH · Hauptprojekt*
+
+Vollständige Migration einer Textilmaschinen-UI von JavaScript/jQuery → **C# Blazor**. MVVM, NATS Echtzeit-Kommunikation, Dependency Injection, skalierbar für verschiedene Maschinentypen.
+
+`C#` `Blazor` `MVVM` `NATS` `DI`
+
+</td>
+<td width="50%">
+
+**🔍 Parameter-Informationsportal**
+*Karl Mayer GmbH · Produktivsoftware*
+
+Such- und Verwaltungsportal für **5.000+ Maschinenparameter**, ersetzt manuellen Prozess durch eine strukturierte, durchsuchbare Web-App für Ingenieure im Produktionsalltag.
+
+`ASP.NET Core` `SQLite` `EF Core`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📚 Digitale Bibliothek**
+*Ausbildungsprojekt*
+
+Webanwendung mit Fokus auf Datenbankmodellierung, EF Core Entity-Design und Blazor-Komponentenarchitektur mit SQLite Backend.
+
+`C#` `Blazor` `EF Core` `SQLite`
+
+</td>
+<td width="50%">
+
+**🌐 Portfolio · menadawod.de**
+*Personal Project · [Live](https://menadawod.de)*
+
+Designed und gebaut von Grund auf. Tailwind CSS, Scroll-Animationen, CI/CD via GitHub & Netlify.
+
+`HTML` `CSS` `Tailwind` `JavaScript` `Netlify`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=100&section=footer&reversal=true" />
+</div>
