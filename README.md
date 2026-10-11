@@ -1,144 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1128,50:8b5cf6,100:22d3ee&height=200&section=header&text=Mena%20Dawod&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20MAUI%20Developer&descAlignY=75&descSize=20&animation=fadeIn&stroke=8b5cf6&strokeWidth=2" />
-</div>
 
-<div align="center">
-  <a href="https://menadawod.de">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Certified+.NET+%2F+Blazor+%2F+MAUI+Developer;IHK+Projektarbeit%3A+99+%2F+100+%E2%80%94+Sehr+gut;Berufsschule+Abschlussnote%3A+1%2C0;1.5+Years+Production+Software+%40+Karl+Mayer;" alt="Typing SVG" />
-  </a>
-</div>
+# Mena Dawod
 
-<br/>
+### .NET Developer · Blazor · .NET MAUI
 
-<div align="center">
-  <a href="https://menadawod.de" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20menadawod.de-8b5cf6?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/menadawod" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@foxflix" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:dawod.mena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=elavocado&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
-</div>
+I build maintainable software for industrial and business workflows, with a
+focus on clear architecture, reliable data access, and practical user
+experience.
 
-<br/>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                     IHK · Jan 2026 · Offenbach                    ║
-║                                                                   ║
-║   Betriebliche Projektarbeit  ████████████████████  99 / 100      ║
-║   Berufsschule Abschlussnote  ████████████████████  1,0           ║
-║   IHK Gesamtergebnis          ████████████████░░░░  87 Pkt. 1,9   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/menadawod)
+![Profile](https://img.shields.io/badge/Profile-Open_to_software_opportunities-172554?style=flat-square)
 
 </div>
 
-<br/>
+---
 
-## 👾 whoami
+## Profile
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+I am an IHK-qualified **Fachinformatiker für Anwendungsentwicklung** with
+hands-on experience building production software in a complex industrial
+environment.
 
-Ich bin **Mena**, frisch zertifizierter **Fachinformatiker für Anwendungsentwicklung** und .NET Developer mit echter Produktionserfahrung.
+My main stack is **C# and .NET**, including Blazor, .NET MAUI, Entity Framework
+Core, SQLite, MVVM, dependency injection, and real-time messaging. I care about
+understanding the actual workflow before choosing the technical solution.
 
-Mein Weg war alles andere als gerade:
+## Impact at a glance
 
-🇪🇬 **2013**, Aus Kairo nach Deutschland, von null angefangen  
-🏭 **2015–2023**, Produktion, Roboterprogrammierung, Schichtleiter  
-💻 **2023–2026**, Ausbildung @ **Karl Mayer GmbH**, Weltmarktführer  
-🚀 **2026**, IHK bestanden. Nächstes Level.
+| | Result |
+|---|---|
+| **IHK final project** | 99 / 100 points |
+| **Vocational school** | Final grade 1.0 |
+| **Production experience** | 1.5+ years building and maintaining software |
+| **Information portal** | Structured access to 5,000+ machine parameters |
 
-Ich habe keine Shortcuts genommen. Alles was ich kann, habe ich mir erkämpft.
+## Selected work
 
-> *"From upgrading my first PC to 126 MB RAM, to shipping production software for industrial machines."*
+### Industrial user-interface modernization
 
-<br/>
+Modernized a legacy JavaScript/jQuery interface as a maintainable **C# and
+Blazor** application for industrial machines.
 
-## 🛠️ Tech Stack
+- Applied MVVM and dependency injection to separate presentation and business logic.
+- Integrated real-time communication using NATS.
+- Designed the application to support multiple machine configurations.
+- Focused on maintainability, predictable behavior, and operator usability.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,html,css,tailwind,js,git,docker,github,gitlab&theme=dark&perline=6" />
-</div>
+`C#` `Blazor` `MVVM` `NATS` `Dependency Injection`
 
-<br/>
+### Machine-parameter information portal
 
-<div align="center">
+Built a searchable internal application that replaced a manual information
+process and made more than **5,000 machine parameters** easier to find and
+manage.
 
-| Layer | Technologies |
-|:---:|:---|
-| **Core** | C# · .NET 8 · Blazor Server/WASM · .NET MAUI |
-| **Architecture** | MVVM · Clean Architecture · DI · OOP · Interfaces |
-| **Data** | Entity Framework Core · SQLite · SQL |
-| **Messaging** | NATS · Real-time communication |
-| **DevOps** | Git · GitLab CI/CD · Docker · Netlify |
-| **IT** | Windows Server · Active Directory · Networking |
+- Developed the application with ASP.NET Core and Entity Framework Core.
+- Modeled structured data in SQLite.
+- Designed search and administration workflows around real production needs.
 
-</div>
+`ASP.NET Core` `Entity Framework Core` `SQLite` `Search UX`
 
-<br/>
+### Cross-platform application architecture
 
-## 🚀 Selected Work
+Developing a structured .NET MAUI application with separate projects for the
+domain, contracts, data access, providers, view models, views, and tests.
 
-> Real projects. Real users. Real production.
+- Uses MVVM and dependency injection across platform targets.
+- Keeps business rules independent from presentation and persistence.
+- Includes automated tests and local SQLite persistence.
 
-<table>
-<tr>
-<td width="50%">
+`C#` `.NET MAUI` `MVVM` `SQLite` `Testing`
 
-**🏭 Legacy-App Modernisierung**
-*Karl Mayer GmbH · Hauptprojekt*
+## Core stack
 
-Vollständige Migration einer Textilmaschinen-UI von JavaScript/jQuery → **C# Blazor**. MVVM, NATS Echtzeit-Kommunikation, Dependency Injection, skalierbar für verschiedene Maschinentypen.
+| Area | Technologies and practices |
+|---|---|
+| **Application development** | C# · .NET · Blazor · ASP.NET Core · .NET MAUI |
+| **Architecture** | MVVM · dependency injection · OOP · interfaces · layered design |
+| **Data** | Entity Framework Core · SQLite · SQL · repository patterns |
+| **Integration** | NATS · real-time communication · REST concepts |
+| **Quality** | automated testing · debugging · maintainable code · Git workflows |
+| **Delivery** | GitHub · GitLab CI/CD · Docker · Windows environments |
 
-`C#` `Blazor` `MVVM` `NATS` `DI`
+## How I work
 
-</td>
-<td width="50%">
+- I start with the user’s workflow and the problem the software must solve.
+- I prefer explicit boundaries and small, understandable components.
+- I document important decisions and make trade-offs visible.
+- I value reliable delivery and maintainability over unnecessary complexity.
+- I am comfortable learning unfamiliar systems and improving legacy code safely.
 
-**🔍 Parameter-Informationsportal**
-*Karl Mayer GmbH · Produktivsoftware*
+## Current focus
 
-Such- und Verwaltungsportal für **5.000+ Maschinenparameter**, ersetzt manuellen Prozess durch eine strukturierte, durchsuchbare Web-App für Ingenieure im Produktionsalltag.
+- Production-ready .NET and Blazor applications
+- Cross-platform development with .NET MAUI
+- Clean boundaries between UI, domain logic, and data access
+- Automated testing and dependable delivery pipelines
 
-`ASP.NET Core` `SQLite` `EF Core`
+## Contact
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+The best way to reach me professionally is through
+[LinkedIn](https://linkedin.com/in/menadawod).
 
-**📚 Digitale Bibliothek**
-*Ausbildungsprojekt*
-
-Webanwendung mit Fokus auf Datenbankmodellierung, EF Core Entity-Design und Blazor-Komponentenarchitektur mit SQLite Backend.
-
-`C#` `Blazor` `EF Core` `SQLite`
-
-</td>
-<td width="50%">
-
-**🌐 Portfolio · menadawod.de**
-*Personal Project · [Live](https://menadawod.de)*
-
-Designed und gebaut von Grund auf. Tailwind CSS, Scroll-Animationen, CI/CD via GitHub & Netlify.
-
-`HTML` `CSS` `Tailwind` `JavaScript` `Netlify`
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=100&section=footer&reversal=true" />
+  <sub>C# · .NET · Blazor · MAUI · Software built around real workflows</sub>
 </div>
